@@ -9,4 +9,4 @@ app_file: main.py
 pinned: false
 ---
 
-Found here the project demo - https://huggingface.co/spaces/bijayjr/Multi-Doc-Chatbot
+Found here the project demo - https://huggingface.co/spaces/bijayjr/Multi-Doc-Chatbot-For-Healthcare
